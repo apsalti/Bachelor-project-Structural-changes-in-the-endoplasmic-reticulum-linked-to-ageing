@@ -3,7 +3,7 @@
 The aim of my bachelor project was to link ageing to structural changes in the ER. I was successufl in finding that link, I additionnally found a marker of senescence in the cell nucelus. 
 
 ## Breif method
-I used mouse liver for all my experiments, female and male at 3 months old and 24 months old. The livers were put in OCT, sliced, stained, imaged, segmented and analyzed. 
+I used mouse liver for all my experiments, female and male at 3 months old and 24 months old. The livers were put in OCT at -80 degrees celcius, sliced using a cryostat, stained (CKAP4, Nogo-A, goat anti-rabbit and DAPI), imaged using a confocal micoscope, segmented using Cellpose 2.0 (human-in-the-loop) and analyzed. 
 
 ## Code 
 The data_analysis_1.ipynb file is the raw file with all my trial and error.
